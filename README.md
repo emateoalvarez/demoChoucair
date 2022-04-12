@@ -1,5 +1,5 @@
 # demoChoucair
-This is an automation for a webpage using pattern screenplay
+This is an automation for a webpage using the screenplay pattern
 
 ## Run Locally 🚀
 
